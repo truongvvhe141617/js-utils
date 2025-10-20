@@ -1,7 +1,7 @@
 {
-  "name": "js-utils",
+  "name": "@truongvv/js-utils",
   "version": "1.0.0",
-  "description": "A lightweight JavaScript utility library providing map, filter, reduce, and forEach implemented from scratch with ESM.",
+  "description": "A lightweight JavaScript utility library providing custom map, filter, reduce, and forEach functions.",
   "type": "module",
   "main": "index.js",
   "exports": {
