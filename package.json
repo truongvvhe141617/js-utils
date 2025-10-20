@@ -1,0 +1,39 @@
+{
+  "name": "@truongvv/js-utils",
+  "version": "1.0.0",
+  "description": "Lightweight and modern JavaScript utility functions (map, filter, reduce, forEach) implemented from scratch using ESM.",
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "keywords": [
+    "javascript",
+    "utils",
+    "array",
+    "map",
+    "filter",
+    "reduce",
+    "forEach",
+    "functional",
+    "esm",
+    "truongvv"
+  ],
+  "author": {
+    "name": "Truong VV",
+    "email": "truongvv@example.com",
+    "url": "https://github.com/truongvvhe141617"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/truongvvhe141617/js-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/truongvvhe141617/js-utils/issues"
+  },
+  "homepage": "https://github.com/truongvvhe141617/js-utils#readme",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
