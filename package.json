@@ -1,6 +1,6 @@
 {
   "name": "@truongvvhe141617/js-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight JavaScript utility library providing custom map, filter, reduce, and forEach functions.",
   "type": "module",
   "main": "index.js",
